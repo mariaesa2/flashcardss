@@ -1,6 +1,8 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*body{
     background-color:rgb(238, 196, 222) 
-    fon-family: Bal Janjuree;
+
 }
 
 #container {
@@ -17,12 +19,11 @@ display: flex;
 
 .cartao__conteudo {
     text-align: center;
-   background-color:rgb(235, 51, 137)
+   background-color:rgb(235, 51, 137);
     height: 100%;
 }
 
 .cartao__conteudo h3 {
-    background-color: ; 
     text-align: left;
     padding: 0,5rem;
     position: absolute;
