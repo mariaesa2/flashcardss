@@ -1,5 +1,5 @@
 body {
-    background-color:beige;
+    background-color:rgb(243, 217, 225);
     font-family: Bai Jamjuree;
 }
 
@@ -52,7 +52,7 @@ body {
 }
 
 .cartao__conteudo__resposta p {
-    background-color: aquamarine;
+    background-color: rgb(173, 174, 231);
     font-weight: 700;
 }
 
@@ -86,16 +86,16 @@ body {
 
 
 footer {
-    background-color: black;
-    color:white;
+    background-color: rgb(173, 174, 231);
+    color:rgb(6, 6, 6);
     position: fixed;
     bottom: 0;
     width: 100%;
-    height: 3rem;
+    height: 2rem;
 }
 
 footer p {
     text-align: center;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     margin-top: 0.7rem;
 }
