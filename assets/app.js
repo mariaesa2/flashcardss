@@ -6,4 +6,7 @@ function criaCartao(categoria, pergunta, resposta) {
    cartao.innerHTML = `
    
    `
+
+    container.appendChild(cartao)
+
 }
